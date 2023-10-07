@@ -1,4 +1,3 @@
-![logo](https://github.com/jakaria242/jakaria242/blob/main/Mern.jpg)
 <h1 align="center">Hi 👋, I'm Jakaria</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
