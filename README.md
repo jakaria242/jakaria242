@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 💬 Ask me about **React JS, WordPress, Node JS, Express JS, MongoDB, FireBAse**
+- 💬 Ask me about **Tec world**
 
 - 📫 How to reach me **jakaria.dev242@gmail.com**
 
