@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 💬 Ask me about **Tec world**
+- 💬 Ask me about anything related to the MERN stack and related technologies
 
 - 📫 How to reach me **jakaria.dev242@gmail.com**
 
