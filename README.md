@@ -47,3 +47,5 @@
 [![Chrome Dev Tools Badge](https://img.shields.io/badge/Chrome_Dev_Tools-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](#)
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
 [![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Figma Badge](https://img.shields.io/badge/figma-red?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![photo Shop Badge](https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#)
