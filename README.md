@@ -30,6 +30,7 @@
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=black)](#)
 [![Redux Toolkit Badge](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=black)](#)
+[![jquery Badge](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=black)](#)
 
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-29A5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7510F7?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
