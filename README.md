@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm <span style="color:blue">Jakaria</span></h1>
 <h4 align="center">## I'm a Frontend Web Developer. I strive to create simple, original, and impactful User Experiences.🚀</h4>
 
-<div align="center" style="margin-bottom:100px">
+<div align="center" style="margin-bottom: '30px'">
 <img aling="center" alt="coding" width="600" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 - 💻 I'm passionate about what I learn and apply them into real life.
-- 
+  
+- 🌱 I’m currently learning MERN Stack Development
+  
 - ⌚ Goals: Contribute more to Open Source projects. Learn new tech & I will increase my programming knowledge and skills.
-- 
+  
 - 👯 I’m looking to collaborate on any kind of interesting projects.
-- 
-- 📫 How to reach me: shohelrana.beg@gmail.com.
-- 
+  
+- 📫 How to reach me: jakaria.dev242.com.
+  
 - 🌐 Fun fact: I love to Explore the world.
 
 
