@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jakaria</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:blue">Jakaria</span></h1>
 <h4 align="center">I'm a dedicated MERN Stack developer from Bangladesh(🇧🇩). I enjoy coding and use JavaScript to simplify my daily tasks, adding more meaning to life.</h4>
 
-
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+<img aling="center" alt="coding" width="600" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
 ⌚ Goals: Contribute more to Open Source projects. Learn new tech & I will increase my programming knowledge and skills.
 👯 I’m looking to collaborate on any kind of interesting projects.
