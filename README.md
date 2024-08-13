@@ -4,19 +4,11 @@
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **MERN Stack**
-
-- 🌱 I’m currently learning **Javascript**
-
-- 👯 I’m looking to collaborate on **Everyone**
-
-- 🤝 I’m looking for help with **Python**
-
+⌚ Goals: Contribute more to Open Source projects. Learn new tech & I will increase my programming knowledge and skills.
+👯 I’m looking to collaborate on any kind of interesting projects.
 - 💬 Ask me about anything related to the MERN stack and related technologies
-
-- 📫 How to reach me **jakaria.dev242@gmail.com**
-
-- ⚡ Fun fact **I love to Explore the world.**
+📫 How to reach me: jakaria.dev242@gmail.com.
+🌐 Fun fact: I love to Explore the world.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
