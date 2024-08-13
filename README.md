@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm <span style="color:blue">Jakaria</span></h1>
-<h4 align="center">I'm a dedicated MERN Stack developer from Bangladesh(🇧🇩). I enjoy coding and use JavaScript to simplify my daily tasks, adding more meaning to life.</h4>
+<h4 align="center">## I'm a Frontend Web Developer. I strive to create simple, original, and impactful User Experiences.🚀</h4>
 
 <div align="center">
 <img aling="center" alt="coding" width="600" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
-⌚ Goals: Contribute more to Open Source projects. Learn new tech & I will increase my programming knowledge and skills.
-👯 I’m looking to collaborate on any kind of interesting projects.
-- 💬 Ask me about anything related to the MERN stack and related technologies
-📫 How to reach me: jakaria.dev242@gmail.com.
-🌐 Fun fact: I love to Explore the world.
+- 💻 I'm passionate about what I learn and apply them into real life.
+- ⌚ Goals: Contribute more to Open Source projects. Learn new tech & I will increase my programming knowledge and skills.
+- 👯 I’m looking to collaborate on any kind of interesting projects.
+- 📫 How to reach me: shohelrana.beg@gmail.com.
+- 🌐 Fun fact: I love to Explore the world.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
