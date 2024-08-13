@@ -6,10 +6,12 @@
 </div>
 <br />
 <br />
+<br />
+
 - 💻 I'm passionate about what I learn and apply them into real life.
-  
+
 - 🌱 I’m currently learning MERN Stack Development
-  
+   
 - ⌚ Goals: Contribute more to Open Source projects. Learn new tech & I will increase my programming knowledge and skills.
   
 - 👯 I’m looking to collaborate on any kind of interesting projects.
@@ -21,7 +23,11 @@
 
 ### 🤝 Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohelranabaig/) [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://shohelranabaig.medium.com/) [![Stackoverflow Badge](https://img.shields.io/badge/Stack%20overflow-orange?style=for-the-badge&logo=stack%20overflow&logoColor=white)](https://stackoverflow.com/users/9272724/shohel-rana) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shohelranabaig) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shohelranabeg/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shohelrana.beg@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)]() [![Stackoverflow Badge](https://img.shields.io/badge/Stack%20overflow-orange?style=for-the-badge&logo=stack%20overflow&logoColor=white)]() [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shohelranabaig) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jakaria.web.dev) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakaria.dev242@gmail.com)
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <p align="left">
