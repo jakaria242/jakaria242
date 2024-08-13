@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm <span style="color:blue">Jakaria</span></h1>
 <h4 align="center">## I'm a Frontend Web Developer. I strive to create simple, original, and impactful User Experiences.🚀</h4>
 
-<div align="center" style="margin-bottom: '30px'">
+<div align="center" >
 <img aling="center" alt="coding" width="600" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
-
+<br />
+<br />
 - 💻 I'm passionate about what I learn and apply them into real life.
   
 - 🌱 I’m currently learning MERN Stack Development
@@ -18,7 +19,11 @@
 - 🌐 Fun fact: I love to Explore the world.
 
 
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with me:
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohelranabaig/) [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://shohelranabaig.medium.com/) [![Stackoverflow Badge](https://img.shields.io/badge/Stack%20overflow-orange?style=for-the-badge&logo=stack%20overflow&logoColor=white)](https://stackoverflow.com/users/9272724/shohel-rana) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shohelranabaig) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shohelranabeg/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shohelrana.beg@gmail.com)
+<br />
+<br />
 <p align="left">
 </p>
 
