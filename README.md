@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color:blue">Jakaria</span></h1>
-<h4 align="center">## I'm a Frontend Web Developer. I strive to create simple, original, and impactful User Experiences.🚀</h4>
+<h4 align="center">I'm a dedicated MERN Stack developer from Bangladesh(🇧🇩). I enjoy coding and use JavaScript to simplify my daily tasks, adding more meaning to life.</h4>
 
 <div align="center" >
 <img aling="center" alt="coding" width="600" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
