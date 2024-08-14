@@ -16,7 +16,7 @@
   
 - 👯 I’m looking to collaborate on any kind of interesting projects.
   
-- 📫 How to reach me: jakaria.dev242.com.
+- 📫 How to reach me: jakaria.dev242@gmail.com.
   
 - 🌐 Fun fact: I love to Explore the world.
 
@@ -26,11 +26,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jakaria.dev242)  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shohelranabaig) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jakaria.web.dev) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakaria.dev242@gmail.com)
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<p align="left">
+<p align="left" style="border-bottom: 5px solid red">
 </p>
 
 <h3 align="left">Skills</h3>
